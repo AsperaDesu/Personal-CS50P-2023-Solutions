@@ -1,7 +1,6 @@
 # Fetchtify
 Fetchtify is a Python project that enables users to search for their favorite artists, explore their Spotify profiles, and discover their top tracks for a personalized musical journey.
 
-#### Video Demo: <https://youtu.be/OuJinKYnVeQ>
 #### Description:
 - **Search Artist:** Look up your preferred artist and view their Spotify profile information.
     - **Handling Identical Artist Names** : To address cases where artists share the same name, we've added a feature enabling you to select from the top five search results for a more precise artist choice.
