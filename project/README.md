@@ -19,7 +19,7 @@ Fetchtify is a Python project that enables users to search for their favorite ar
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/project.git
+    svn export https://github.com/AsperaDesu/Personal-CS50P-2023-Solutions/trunk/project
     cd project
     ```
 
